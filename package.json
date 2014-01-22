@@ -1,0 +1,17 @@
+{
+  "name": "grunt-wptheme",
+  "version": "0.1.0",
+  "description": "",
+  "main": "tasks/wptheme.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brent Burgoyne",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-coffee": "~0.8.2",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-coffeelint": "0.0.8"
+  }
+}
