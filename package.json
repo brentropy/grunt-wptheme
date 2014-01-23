@@ -1,6 +1,6 @@
 {
   "name": "grunt-wptheme",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Builds the style.css file for a WordPress theme",
   "main": "tasks/wptheme.js",
   "scripts": {
@@ -12,6 +12,7 @@
   },
   "keywords": [
     "grunt",
+    "gruntplugin",
     "wordpress"
   ],
   "author": "Brent Burgoyne",
