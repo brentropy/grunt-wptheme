@@ -1,13 +1,25 @@
 {
   "name": "grunt-wptheme",
   "version": "0.1.0",
-  "description": "",
+  "description": "Builds the style.css file for a WordPress theme",
   "main": "tasks/wptheme.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brentburgoyne/grunt-wptheme"
+  },
+  "keywords": [
+    "grunt",
+    "wordpress"
+  ],
   "author": "Brent Burgoyne",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brentburgoyne/grunt-wptheme/issues"
+  },
+  "homepage": "https://github.com/brentburgoyne/grunt-wptheme",
   "devDependencies": {
     "grunt": "~0.4.2",
     "grunt-contrib-coffee": "~0.8.2",
