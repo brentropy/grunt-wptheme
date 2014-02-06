@@ -12,4 +12,5 @@ module.exports =
   textDomain:  "Text Domain"
   domainPath:  "Domain Path"
   tags:        "Tags"
+  template:    "Template"
 
